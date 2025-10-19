@@ -1,4 +1,4 @@
-let audio = new Audio('./src/musica dnj 2025.mp3');
+let audio = new Audio('./src/MUSICA-DNJ2025.mp3');
 let isPlaying = false;
 
 
